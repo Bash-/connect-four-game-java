@@ -1,7 +1,7 @@
-![alt text](https://github.com/Bash-/connect-four-game-java/raw/master/src/img/ConnectFour0.5.jpg "Connect Four Game")
+![alt text](https://github.com/Bash-/connect-four-game-java/blob/master/src/img/ConnectFour0.5.jpg?raw=true "Connect Four Game")
 
 Connect Four Project 2014-2015
-By [Bas Hendrikse](https://github.com/Bash-) & [Martijn Gemmink](https://github.com/Martinootje)
+By [Bas Hendrikse]: https://github.com/Bash- & [Martijn Gemmink]: https://github.com/Martinootje
 
 Run the following classes the use the program:
 - src/control/ConnectFour.java  (To open a client)
